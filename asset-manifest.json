@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kennywatson3296/Thinkful_React_Starter/static/css/main.097536d1.chunk.css",
+    "main.js": "/kennywatson3296/Thinkful_React_Starter/static/js/main.74fe58e3.chunk.js",
+    "main.js.map": "/kennywatson3296/Thinkful_React_Starter/static/js/main.74fe58e3.chunk.js.map",
+    "runtime-main.js": "/kennywatson3296/Thinkful_React_Starter/static/js/runtime-main.19777f32.js",
+    "runtime-main.js.map": "/kennywatson3296/Thinkful_React_Starter/static/js/runtime-main.19777f32.js.map",
+    "static/js/2.d197d08f.chunk.js": "/kennywatson3296/Thinkful_React_Starter/static/js/2.d197d08f.chunk.js",
+    "static/js/2.d197d08f.chunk.js.map": "/kennywatson3296/Thinkful_React_Starter/static/js/2.d197d08f.chunk.js.map",
+    "index.html": "/kennywatson3296/Thinkful_React_Starter/index.html",
+    "precache-manifest.fc89d49df3252fb39e786d5f69634d71.js": "/kennywatson3296/Thinkful_React_Starter/precache-manifest.fc89d49df3252fb39e786d5f69634d71.js",
+    "service-worker.js": "/kennywatson3296/Thinkful_React_Starter/service-worker.js",
+    "static/css/main.097536d1.chunk.css.map": "/kennywatson3296/Thinkful_React_Starter/static/css/main.097536d1.chunk.css.map",
+    "static/js/2.d197d08f.chunk.js.LICENSE.txt": "/kennywatson3296/Thinkful_React_Starter/static/js/2.d197d08f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19777f32.js",
+    "static/js/2.d197d08f.chunk.js",
+    "static/css/main.097536d1.chunk.css",
+    "static/js/main.74fe58e3.chunk.js"
+  ]
+}
