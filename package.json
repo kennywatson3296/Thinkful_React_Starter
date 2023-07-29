@@ -1,6 +1,6 @@
 {
   "name": "recipe-app",
-  "homepage":"https://kennywatson3296.github.io/Thinkful_React_Starter",
+  
   "version": "0.1.0",
   "private": true,
   "dependencies": {
